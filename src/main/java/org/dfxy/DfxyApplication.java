@@ -1,0 +1,13 @@
+package org.dfxy;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class DfxyApplication {
+
+    public static void main(String[] args) {
+        SpringApplication.run(DfxyApplication.class,args);
+    }
+
+}
